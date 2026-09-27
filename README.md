@@ -67,10 +67,3 @@ Because this is a client-only React app, the API key is bundled into the JavaScr
 ## Project structure
 
 Everything lives in a single file, `src/App.js` — the rubric data, the OpenRouter call, and all styling. This was a deliberate choice for a fast-moving prototype; it would be split into components for a production build.
-
-## Roadmap
-
-- [ ] Deploy to GitHub Pages or Vercel
-- [ ] Add a backend proxy so the API key isn't exposed client-side
-- [ ] Persist past scans so multiple sites can be compared
-- [ ] Expand signals to include live PageSpeed Insights data
