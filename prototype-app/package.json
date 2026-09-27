@@ -1,6 +1,7 @@
 {
   "name": "prototype-app",
   "version": "0.1.0",
+  "homepage": "https://music987.github.io/Website-Opportunity-Scanner",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
